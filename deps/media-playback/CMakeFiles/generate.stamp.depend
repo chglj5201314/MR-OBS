@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+D:/code/obs-studio/deps/media-playback/CMakeLists.txt
+D:/code/obs-studio/cmake/Modules/FindFFmpeg.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPkgConfig.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageMessage.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/CMakeParseArguments.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageMessage.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/CMakeParseArguments.cmake

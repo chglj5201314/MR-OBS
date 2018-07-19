@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+D:/code/obs-studio/deps/obs-scripting/CMakeLists.txt
+D:/code/obs-studio/cmake/Modules/FindLuajit.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageMessage.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/CMakeParseArguments.cmake
+D:/code/obs-studio/cmake/Modules/FindPythonDeps.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageMessage.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/CMakeParseArguments.cmake
+D:/code/obs-studio/cmake/Modules/FindSwigDeps.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindSWIG.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageHandleStandardArgs.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/FindPackageMessage.cmake
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/CMakeParseArguments.cmake
+D:/code/obs-studio/deps/obs-scripting/obs-scripting-config.h.in
+D:/cmake-3.6.1-win64-x64/share/cmake-3.6/Modules/UseSWIG.cmake
